@@ -1,0 +1,29 @@
+header {
+    text-align: center;
+    padding: 50px 0;
+}
+h1 {
+    font-size: 32px;
+}
+main {
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+}
+section {
+    text-align: center;
+}
+.card-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.card {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100px;
+}
+footer {
+    text-align: center;
+}
